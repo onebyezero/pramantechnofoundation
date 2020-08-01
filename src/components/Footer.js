@@ -21,12 +21,7 @@ const Footer = (props) => {
 
   return (
     <div className="footer-container">
-      <div className="footer-items">
-        <h2>Donate</h2>
-        <p>
-          We depend only on your donations to rescue, feed, provide necessary veterinary care, maintain the shelter, and fight for the animals.
-        </p>
-      </div>
+      
       <div className="footer-items">
         <h2>Useful Links</h2>
         <div>

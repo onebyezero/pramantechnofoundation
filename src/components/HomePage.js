@@ -67,14 +67,14 @@ const HomePage = () => {
               <h1 ref={setRef}>Welcome to Praman Techno Foundation</h1>
             </div>
             <div className="welcome-story">
-              <section className="welcome-video">
+              {/* <section className="welcome-video">
                 <div>
                   <video width="100%" height="auto" controls controlsList="nodownload" poster={PosterImage}>
                     <source src={DogVideo}></source>
                   Your Browser Does Not Support The Video Tag.
               </video>
                 </div>
-              </section>
+              </section> */}
               <section className="welcome-text">
                 <h1>Our Vision</h1>
                   <p>
