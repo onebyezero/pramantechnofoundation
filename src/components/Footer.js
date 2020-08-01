@@ -45,7 +45,7 @@ const Footer = (props) => {
         <div className="address-container">
           <div><i class="fas fa-globe-asia"></i></div>
           <div className="karma-address">
-            <span >Karma Foundation</span>
+            <span >Praman Techno Foundation</span>
             <p style={{textTransform:'none',fontSize: '13px'}}>
               Address: 21/4, Krishna Puram, Baghpat Road, Meerut, 250002.
             </p>

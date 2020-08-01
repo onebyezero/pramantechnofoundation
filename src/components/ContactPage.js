@@ -30,7 +30,7 @@ const ContactPage = (props) => {
                 <div className="address-container">
                   <div style={{ marginTop: '10px' }}><i class="fas fa-globe-asia"></i></div>
                   <div className="karma-address contact">
-                    <span >Karma Foundation</span>
+                    <span >Praman Techno Foundation</span>
                     <h6>
                       <span style={{fontWeight: 'bold'}}>Contact: </span>
                       21/4, Krishna Puram,
