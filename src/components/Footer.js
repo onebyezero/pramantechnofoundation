@@ -3,8 +3,8 @@ import * as utils from '../HelperFiles/Utils.js';
 
 const usefulLinks = [
   {name:'What we do', id: 'what-we-do'},
-  {name: 'Become a Volunteer', id: 'become-a-volunteer'},
-  'Join With Us',
+  // {name: 'Become a Volunteer', id: 'become-a-volunteer'},
+  // 'Join With Us',
   {name: 'Privacy Policy', id: 'privacy-policy'},
   {name: 'Terms & Conditions', id: 'terms'},
   'Refund Poilcy'

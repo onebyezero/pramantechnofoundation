@@ -17,7 +17,7 @@ const BecomeAVolunteerPage = () => {
         loader ? <Loader /> :
           <div className="volunteer-form-container">
             <div className="volunteer-inner">
-              <div className="volunteer-label">Become A Volunteer</div>
+              {/* <div className="volunteer-label">Become A Volunteer</div> */}
               <div className="volunteer-input">
                 <label htmlFor="full-name">
                   <i class="far fa-user"/>

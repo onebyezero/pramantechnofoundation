@@ -7,7 +7,7 @@ const navOptions = [
   { name: 'About Us', pathname: '/about'},
   { name: 'Vision & Mission', pathname: '/vision-n-mission' },
   { name: 'Contact Us', pathname: '/contact' },
-  { name: 'Become A Volunteer', pathname: '/become-a-volunteer' }
+  // { name: 'Become A Volunteer', pathname: '/become-a-volunteer' }
 ]
 
 const MenuNav = (props) => {
