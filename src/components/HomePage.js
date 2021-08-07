@@ -12,6 +12,15 @@ import counsellingImage from '../images/counselling.jpg';
 import healthAwareness from '../images/health-awareness.jpg';
 import skillDevelopmentImage from '../images/skill-development.jpeg';
 import new_image_1 from '../images/new_1.jpg';
+import new_image_2 from '../images/new_2.jpg';
+import new_image_3 from '../images/new_3.jpg';
+import new_image_4 from '../images/new_4.jpg';
+import new_image_5 from '../images/new_5.jpg';
+import new_image_6 from '../images/new_6.jpg';
+import new_image_7 from '../images/new_7.jpg';
+import new_image_8 from '../images/new_8.jpg';
+import new_image_9 from '../images/new_9.jpg';
+import new_image_10 from '../images/new_10.jpg';
 import Loader from '../Loader/Loader';
 
 const imagesArray = [
@@ -42,6 +51,51 @@ const imagesArray = [
   },
   {
     imageSrc: new_image_1,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_2,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_3,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_4,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_5,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_6,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_7,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_8,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_9,
+    headerText: '',
+    text: ''
+  },
+  {
+    imageSrc: new_image_10,
     headerText: '',
     text: ''
   }
