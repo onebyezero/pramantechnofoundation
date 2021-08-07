@@ -11,6 +11,7 @@ import reviewMeeting from '../images/review-meet.jpg';
 import counsellingImage from '../images/counselling.jpg';
 import healthAwareness from '../images/health-awareness.jpg';
 import skillDevelopmentImage from '../images/skill-development.jpeg';
+import new_image_1 from '../images/new_1.jpg';
 import Loader from '../Loader/Loader';
 
 const imagesArray = [
@@ -37,6 +38,11 @@ const imagesArray = [
   {
     imageSrc: skillDevelopmentImage,
     headerText: 'Skill Development',
+    text: ''
+  },
+  {
+    imageSrc: new_image_1,
+    headerText: '',
     text: ''
   }
   // 'https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/1/2015/09/Animal_shelters.jpg?w=1200&h=628&fill=blur&fit=fill',
