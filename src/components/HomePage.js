@@ -4,8 +4,6 @@ import JoinTeam from './JoinTeam';
 import WhatWeDoCards from './WhatWeDoCards';
 import SponsorsComponent from './Sponsors';
 import useScrollHook from '../CustomHooks/useScrollHook';
-import DogVideo from '../videos/dog-video.mp4';
-import PosterImage from '../images/video-poster.png';
 import workshopImage from '../images/workshop.jpg';
 import reviewMeeting from '../images/review-meet.jpg';
 import counsellingImage from '../images/counselling.jpg';

@@ -1,0 +1,18 @@
+{
+    "environments": {
+        "test": {
+          "formation": {
+              "test": {
+                "quantity": 1,
+                "size": "standard-1x"
+              }
+          }
+       }
+    },
+    "buildpacks": [
+      {
+        "url": "mars/create-react-app"
+      }
+    ]
+  }
+  

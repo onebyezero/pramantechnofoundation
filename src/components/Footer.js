@@ -28,7 +28,7 @@ const Footer = (props) => {
           {
             usefulLinks.map(
               (item, index) => {
-                return (<a key={index} onClick={() => handleScroll(item.id)} alt="">{item.name}</a>);
+                return (<a href key={index} onClick={() => handleScroll(item.id)} alt="">{item.name}</a>);
               }
             )
           }
@@ -43,7 +43,7 @@ const Footer = (props) => {
       <div className="footer-items">
         <h2>Get In Touch</h2>
         <div className="address-container">
-          <div><i class="fas fa-globe-asia"></i></div>
+          <div><i className="fas fa-globe-asia"></i></div>
           <div className="karma-address">
             <span >Praman Techno Foundation</span>
             <p style={{textTransform:'none',fontSize: '13px'}}>
